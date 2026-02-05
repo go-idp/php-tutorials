@@ -4,4 +4,3 @@ dist
 .cache
 *.log
 docs/.vitepress/cache
-pnpm-lock.yaml
